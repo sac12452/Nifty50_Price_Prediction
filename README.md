@@ -22,19 +22,19 @@ Our model will empowers investors to optimize their portfolios and enhance tradi
 | Files| Description |
 | ------------- | ------------- |
 
-| **step1.ipynb** | This file contains the ipynb code of the Web scrapping part. |
+| **Nifty50_Web_Scraping_Python_File** | This file contains the ipynb code of the Web scrapping part. |
 
-| **step2,3,4 Cleaning .ipynb** | This file contains the ipynb code of the data cleaning part. |
+| **Nifty50_Stock_Data** | This file contains the scrapped file in excel format. |
 
-| **step5.xlsx** | This file contains the Excel worksheets and dashboard of the insights. |
+| **Nifty50_Stock_Gsheet** | This file contains the Google sheet intrigation,Json file and pkl format file. |
 
-| **step6.xlsx** | These files contain the final data drawn out after the data cleaning. |
+| **Nifty50_Stock_final_Merge_Excel_file** | These files contain the final data drawn out after the data cleaning. |
 
-| **step7.sql**  | This file provides SQL queries of the aggregation of the data   |
+| **Nifty50_Stock_Web_Page**  | This file contain the py file for web page.|
 
-| **step8.sql**  | This file provides the powerpoint presentation and visualisation   |
+| **Nifty50_Stock_Final_PPT**  | This file provides the powerpoint presentation and visualisation   |
 
-| **step9.pptx**  | This file  contains all the major insights and conclusions.  |
+| **Model Creation and Evaluations**  | This file  contains Model creation and evaluations python file.  |
 
 # <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Project Plan
 
