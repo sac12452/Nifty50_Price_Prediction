@@ -71,26 +71,13 @@ Our model will empowers investors to optimize their portfolios and enhance tradi
 
 <br>
 
-# <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
+# <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Project Plan
 
-    1. Started with scrapping of the data from InstaHyre's website with Python and saving it into CSV files, imported the CSV files into an Excel file.
+
+
+
     
-    2. Did the Data cleaning part with the help of Pandas and Power Query (MS Excel), imported the CSVs into MySQL for further analysis. 
- 
-    3. Imported CSVs in MySQL, created tables using Group By, Join, Trim, Constraints etc.
-    
-    4. Exported all the tables from MySQL to MS Excel and created required tables to gain some insights.
-    
-    5. Performed in depth analysis of the data in MS Excel using Pivot tables and charts.
-    
-    6. Created different charts from the table for better understanding of the data.
-    
-    7. Also Designed a Interactive Dashboard from the charts for better visualisation.
-    
-    8. Created some useful drop-downs for fetching the required Data like Standard Experience, Standard Role (Profiles) and Location.
-    
-    9. Created a Powerpoint presentation with all the insights and the conclusions listed with the in depth analysis.
-    
+![Screenshot 2023-08-11 212501](https://github.com/sac12452/Nifty50_Price_Prediction/assets/125953080/045f875c-0cd5-484f-a62d-1466a313ba5a)
 
 
 <br>
