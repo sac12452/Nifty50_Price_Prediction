@@ -36,6 +36,11 @@ Our model will empowers investors to optimize their portfolios and enhance tradi
 
 | **step9.pptx**  | This file  contains all the major insights and conclusions.  |
 
+# <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Project Plan
+
+
+![Screenshot 2023-08-11 212501](https://github.com/sac12452/Nifty50_Price_Prediction/assets/125953080/045f875c-0cd5-484f-a62d-1466a313ba5a)
+
 
 
 #  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Model Building
@@ -62,41 +67,65 @@ Our model will empowers investors to optimize their portfolios and enhance tradi
 ![microsoft-sql-server](https://user-images.githubusercontent.com/106439762/181936612-f96e085e-2d4b-4bc0-8347-1f3e0a894395.svg)
 ![pyhton-pandas](https://user-images.githubusercontent.com/106439762/177094844-d74edfa1-823d-4f17-8d94-3600e058cf1e.svg)
 
+<br>
 
 
+# <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Model Evaluation
+
+   1. Applied various algorithms (ARIMA, XGBoost, GARCH) on stock market data, but achieved superior accuracy with polynomial regression 
+   
+   2. Therefore we finalized with polynomial regression model and evaluated it using R2 score and adjusted R2 score. 
+   
+   3. R2 score measures the proportion of variance explained by the model, 
+	
+ while adjusted R2 accounts for the number of features used, 	providing a more robust accuracy assessmen
+
+![Screenshot 2023-08-11 215025](https://github.com/sac12452/Nifty50_Price_Prediction/assets/125953080/3956042e-17ba-4935-b303-c8eb27c61b5b)
 
 
+ 
 
 
+   
 
 <br>
 
-# <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Project Plan
+# <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Web Page
+   
+   1. The web page allows users to input stock details,quantity,buying and selling dates for personalized predictions. 
+   
+   2.  User-friendly interface for inputting stock details, quantity, buying, and selling dates.
+   
+   3. Accurate predictions aid investors in making informed decisions.
+   
+   4. Validation through training on historical stock data ensures reliability.
+   
+   5. Practical application of AI in financial analysis, optimizing investments.
 
 
-
-
-    
-![Screenshot 2023-08-11 212501](https://github.com/sac12452/Nifty50_Price_Prediction/assets/125953080/045f875c-0cd5-484f-a62d-1466a313ba5a)
-
+![Screenshot 2023-08-11 213900](https://github.com/sac12452/Nifty50_Price_Prediction/assets/125953080/ca1715c2-de86-4aa9-9d7a-5be2b97b778f)
 
 <br>
 
-# <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Insights
+# <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Model Application
+
+   1. Informed Investment Decisions. 
    
-   1. The companies with Employee size of above 1000 employees and above 50 (under 200) employees have the highest number of Job openings, whereas companies having less than 10 employees have least number of job openings. 
+   2. Risk Management.
    
-   2. There are highest number of job openings in Job Profiles like Management, Marketing and Software Engineers, whereas Job Profiles like Accountancy, Designers and Writers have the least number of job openings.
+   3. Portfolio Optimization.
    
-   3. Freshers (0-2 years of Experience) and Experts (above 15 years of Experience) are the least in demand segment of the job seekers, whereas Advanced (5-10 years of Experience) and Intermediate (between 2-5 years of Experience) are the highest in demand segment of the job seekers.
+   4. Financial Planning.
    
-   4. Programming languages like Python, Java and Java script are the most in demand skills.
+   5. Enhancing Market Understanding.
    
-   5. Bangalore and Mumbai are the Cities with highest number of job openings.
+   6. Empowering Individual Investors.
    
-   6. Work From Home is surprisingly the 3rd highest segment in locations with highest number of jobs, indicating the increasing preference of the companies for WFH in post pandemic period as it reduces the requirement of infrastructure for the company, reduces the cost of operations and also remains employee friendly.
+   7. Confidence in Decision-making.
    
-   7. LTI Mindtree, CashFlo and Google in the companies have highest number of job openings, indicating that the Tech and the Finance sectors, escpecially the large companies in them are creating the highest number of employment in India.
+   8. Validating Existing Strategies
+
+
    <br>
    
    
@@ -104,31 +133,17 @@ Our model will empowers investors to optimize their portfolios and enhance tradi
    
    <B> The aim of the Project is to: </B>
    
-   1. Assist the people in finding the most suitable jobs based on their eligibilities and preferences. 
+   1. Focus on real-time data processing to adapt to rapidly changing market conditions.. 
    
-   2. Help the migratory work force in finding out the most suitable locations for their respective work fields.
+   2. Expand models to assess risk, optimize portfolios, and consider blockchain's impact on data integrity.
    
-   3. To provide an idea of the employement situation in the country.
+   3. Integrate non-traditional data like social sentiment and economic indicators for richer insights.
    
-   4. Helping out the freshers and the people lacking in information, in finding the easiest path to secure employment.
+   4. Develop models that not only predict stock prices but also provide explanations for their predictions.
    
-   5. Helping the new Generation to plan their future with the information like most in demand skills, locations with highest number of job openings, most in demand job profiles etc.
-   
-   6. Empowerment of common people with the relevant information that can help them to secure employment, reduce the accessability gap between the companies and the job seekers and aid to the raising employment rate of the country.
-   
-   
-   
-    
-
-![image](https://user-images.githubusercontent.com/108053296/189940016-b2f9ffd2-ff3c-46a7-90a0-ac2929953469.png)
+   5. Collaborate with domain experts in finance, economics, and data science to create more holistic models.
 
    
  
 
-<!--  # <img src=https://user-images.githubusercontent.com/106439762/178809088-a2d780ad-94f5-4a58-9203-7716d4b2cbf4.gif width="48" height="48"> About Me
-I'm an aspiring data analyst...
 
-
-#  <img src=https://user-images.githubusercontent.com/106439762/178810087-8f7f8272-0cb8-40cb-a14c-be475569cf7d.gif width="48" height="48"> Links
-
-<a href="https://www.linkedin.com/in/yash-upadhyay-9b642a254/" ><img src="https://user-images.githubusercontent.com/106439762/182037233-49248ea9-c7a4-4f55-9fe4-5fe24e5ef160.png" width="48" height="48"> 
