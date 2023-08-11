@@ -36,7 +36,9 @@ Our model will empowers investors to optimize their portfolios and enhance tradi
 
 | **step9.pptx**  | This file  contains all the major insights and conclusions.  |
 
-
+<div id="header" align="center">
+  <img src="https://filmdaily.co/wp-content/uploads/2021/12/dataanalyst-lede.jpg" width="450"/>
+</div>
 
 #  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Model Building
    
