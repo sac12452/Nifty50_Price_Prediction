@@ -127,6 +127,16 @@ Our model will empowers investors to optimize their portfolios and enhance tradi
 
 
    <br>
+
+
+# <img src="https://user-images.githubusercontent.com/108053296/185756908-fbb62168-d923-48f2-992f-b8e2fde848fe.gif" width="48" height="48" > Challenges
+
+
+
+
+![nifty](https://github.com/sac12452/Nifty50_Price_Prediction/assets/125953080/2bc3bd8e-f176-4159-b75e-4a38e0f976a8)
+
+
    
    
    #  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Future Scope
